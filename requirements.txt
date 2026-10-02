@@ -1,0 +1,10 @@
+speechrecognition
+pyttsx3
+requests
+transformers
+cerebras
+openai
+google-genai
+pyaudio
+pyjokes
+python-dotenv
